@@ -16,3 +16,7 @@ I also added the ability to decide the flooding rate. And finally I allowed the 
 
 ## Troubleshooting
 If this project does not work, you have to reset the locations of the processing and Gson library.
+
+
+# Grade
+For this subject I got a 9.5/10
